@@ -8,7 +8,7 @@ The LOCK-KIT tool is basically used to set or reset the Windows users password w
 
 ## Authors
 
-- [Its-Jerry](https://github.com/Its-Jerry)
+- [dipanshu0104](https://github.com/dipanshu0104)
 
 ## Screenshot
 Screenshot 1.
