@@ -30,7 +30,7 @@ Screenshot 2.
 - Step 1. Clone the code by git clone. 
 
 ```bash
-git clone https://github.com/Its-Jerry/Lock-Kit.git 
+git clone https://github.com/dipanshu0104/Lock-Kit.git 
 ```
    ( You can also download the zip file directly. ) 
 
